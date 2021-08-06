@@ -24,5 +24,7 @@ Enter the high value for day 4: 10
 Enter the low value for day 4: 3
 
 The average (mean) temperature was: 5.00
+
 The highest temperature was 11, on day 3
+
 The lowest temperature was -4, on day 2
