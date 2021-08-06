@@ -1,11 +1,12 @@
 
-**temperatureAnalyzer.c**
+**temperatureAnalyzer.c** : quantifies the average mean/highest/lowest temperatures over a given period of time
 
 
 
 Output:
 
 ---=== Temperature Analyzer ===---
+
 Enter the high value for day 1: 8
 
 Enter the low value for day 1: -2
