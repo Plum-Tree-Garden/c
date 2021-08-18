@@ -20,7 +20,7 @@ CONTACT MANAGEMENT SYSTEM
 
 EMPLOYEE DATA
 -------------
-
+    stores employee data as an array and until terminating program, will allow you to; add, update, remove an employee.
 
 
 TEMPERATURE ANALYZER
