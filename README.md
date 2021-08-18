@@ -7,11 +7,11 @@ CASH REGISTER
     recieves user input for a $Amt, adds $Gst, then quantifies amount owing / amount returned.
     
     
-XTER
+CHOKE POINT TESTS
 -------------
 
 
-XTER
+EMPLOYEE MANAGEMENT SYSTEM
 -------------
 
 
