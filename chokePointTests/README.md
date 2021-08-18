@@ -1,7 +1,9 @@
 // Plum Tree Garden
 
 
-**chokePointTests.c** : Tests a series of choke points when receiving user data
+CHOKE POINT TESTS
+--------------
+    Tests a series of choke points when receiving user data
 
 
 
