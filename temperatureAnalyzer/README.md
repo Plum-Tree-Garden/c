@@ -1,5 +1,7 @@
 
-**temperatureAnalyzer.c** : quantifies the average mean/highest/lowest temperatures over a given period of time
+temperature analyzer
+----------------
+    quantifies the average mean/highest/lowest temperatures over a given period of time
 
 
 
