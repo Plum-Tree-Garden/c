@@ -15,7 +15,7 @@ CHOKE POINT TESTS
 
 CONTACT MANAGEMENT SYSTEM
 -------------
-
+    stores contact information
 
 
 EMPLOYEE DATA
