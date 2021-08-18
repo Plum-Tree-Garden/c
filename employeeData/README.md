@@ -1,4 +1,6 @@
-**employeeData.c** : stores employee data as an array and until terminating program, will allow you to; add, update, remove an employee.
+employee data
+-----------
+      stores employee data as an array and until terminating program, will allow you to; add, update, remove an employee.
 
 
 Output
