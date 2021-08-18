@@ -1,6 +1,6 @@
 // Plum Tree Garden
 
-contact Managemen tSystem
+contact Management System
 ----------------
     stores contact information 
 
