@@ -25,5 +25,5 @@ EMPLOYEE DATA
 
 TEMPERATURE ANALYZER
 -------------
-
+    quantifies the average mean/highest/lowest temperatures over a given period of time
 
